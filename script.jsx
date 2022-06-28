@@ -32,7 +32,7 @@ const Account = () => {
 
   // Account is re-rendered on change, submission, selection
   console.log(`Account rendered with isDeposit: ${isDeposit}`);
-  console.log(transaction, totalState, atmMode, isValid);
+
   const handleChange = (event) => {
     const userInput = Number(event.target.value);
     console.log(`handleChange ${userInput}`);
