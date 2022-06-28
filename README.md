@@ -1,10 +1,10 @@
-## Project Title: 
+## Title
 ATM-Machine
 
-## Project Description:
-A simple ATM machine to keep track of your account balance and to deposit and withdraw money.  
+## Description
+A simple ATM machine to keep track of your account balance and to deposit and withdraw money  
 
-## Project Improvements:
+## Project Improvements
 * Add instructions to help user through process
 * Add colors to deposit and cash back amounts to better distinguish between the two 
 * Add validations to ensure user cannot withdraw more money than the account balance
@@ -15,7 +15,7 @@ A simple ATM machine to keep track of your account balance and to deposit and wi
 3. Open index.html in the browser to view 
 
 ## Roadmap of Future Improvements
-Add a user login feature.
+Add a user login feature
 
 ## License Information
 MIT License
