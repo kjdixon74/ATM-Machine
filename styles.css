@@ -1,0 +1,9 @@
+body {
+  background-color: silver;
+}
+
+.atm-machine {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(69, 69, 194);
+  border: 5px solid gray;
+}
